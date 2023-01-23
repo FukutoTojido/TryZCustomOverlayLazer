@@ -29,6 +29,10 @@ This overlay can fetch the data of your current osu! Bancho account, as well as 
   
   Just head to the `config.json` file and set the `leaderboardEnable` option to `0`. Then refresh your Browser Source. If that doesn't help, refresh the cache of your Browser Source in its Properties. And if the overlay still doesn't change, blame OBS.
   
+- **Q: Can this be used for a streaming session?**
+  
+  Surely! You can have a look at it on [my stream](https://www.twitch.tv/videos/1715056556)
+  
 ## Screenshots
 ![https://i.imgur.com/1nOYx7w.jpeg](https://i.imgur.com/1nOYx7w.jpeg)
 ![https://i.imgur.com/II2gdn4.jpg](https://i.imgur.com/II2gdn4.jpg)
