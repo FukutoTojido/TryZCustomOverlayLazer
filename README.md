@@ -28,6 +28,7 @@ This overlay can fetch the data of your current osu! Bancho account, as well as 
 - **Q: I want to disable the leaderboard**
   
   Just head to the `config.json` file and set the `leaderboardEnable` option to `0`. Then refresh your Browser Source. If that doesn't help, refresh the cache of your Browser Source in its Properties. And if the overlay still doesn't change, blame OBS.
+  
 ## Screenshots
 ![https://i.imgur.com/1nOYx7w.jpeg](https://i.imgur.com/1nOYx7w.jpeg)
 ![https://i.imgur.com/II2gdn4.jpg](https://i.imgur.com/II2gdn4.jpg)
